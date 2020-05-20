@@ -1,0 +1,24 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+### Toolchain: p1020_rdb_pc-powerpc-timesys-linux-gnuspe-gcc-4.9.4-20200518-18:38 ###
+CC=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-gcc
+STRIP=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-strip
+CXX=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-g++
+CPP=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-cpp
+RANLIB=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-ranlib
+DEBUGGER=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-gdb
+AR=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-ar
+AS=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-as
+OBJCOPY=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-objcopy
+OBJDUMP=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-objdump
+LD=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-ld
+NM=/home/timesys/timesys/p1020_rdb_pc/toolchain/bin/powerpc-timesys-linux-gnuspe-nm
+
+################################################################################# 
+# TimeStorm Flags  
+################################################################################
+ 
+ TIMESTORM_COMPILER_FLAGS = -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF 
+ TIMESTORM_LINKER_FLAGS = -o "debug" 
